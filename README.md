@@ -19,6 +19,27 @@ Output cost: £3.11
 output change: £1, 50p, 20p, 10p, 5p, 2p, 2p
 ```
 
+## Installing and running the app
+Clone the current repository:
+```
+$ git clone https://github.com/savannaelbey/coinChange.git
+```
+
+Navigate to the directory:
+
+```
+$ cd coinChange
+```
+Install all the required packages:
+```
+$ npm install
+```
+Run the app in Node from the command line:
+```
+$ node app.js
+```
+
+
 ## Dependencies
 * Node
 * Prompt-sync
