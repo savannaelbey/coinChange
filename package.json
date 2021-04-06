@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/savannaelbey/coinChange/issues"
   },
-  "homepage": "https://github.com/savannaelbey/coinChange#readme"
+  "homepage": "https://github.com/savannaelbey/coinChange#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
